@@ -5,7 +5,7 @@ Some Contributions/Forks to Highlight:
 - [morss (a way to convert full text into RSS feeds) fork to make it usable](https://github.com/xNinjaKittyx/morss)
 
 Some Projects I would highlight from my Profile
-- [dotenvfiles](https://github.com/xNinjaKittyx/dotenvfiles) - dotenv files are fun.
+- [dotfiles](https://github.com/xNinjaKittyx/dotfiles) - dotfiles are fun.
 - [mb8600](https://github.com/xNinjaKittyx/mb8600) - Automatically fetching stats from MB8600 Motorola Modem and importing into InfluxDB + Some Grafana charts.
 - [pyapcupsdexporter](https://github.com/xNinjaKittyx/pyapcupsdexporter) - A forked project that basically takes APC UPS data and sends it to InfluxDB (adds 2.x support). Has enough changes to be considered separate.
 - [homelab](https://github.com/xNinjaKittyx/homelab) - Random stuff on homelabbing
